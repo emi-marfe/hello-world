@@ -1,3 +1,3 @@
-# Developer Studen Club MEMBERS
+# Developer Student Club MEMBERS
 
-* Usheninte Dangana (@Usheninte)
+* Usheninte Dangana ([@Usheninte](https://github.com/Usheninte))
